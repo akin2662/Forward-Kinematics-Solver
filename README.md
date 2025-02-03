@@ -2,7 +2,7 @@
 **Note:** This project was a requirement for the course ENPM 662- Introduction to Robot Modeling at University of Maryland, College Park
 
 ## Project Description
-The project involves creating a Forward Kinematics Solver for a robot arm. It implements the kinematic analysis of the UR10 robotic manipulator using the Denavit-Hartenberg (DH) convention. It calculates transformation matrices for different robot configurations and determines the position of the end effector.
+The project involves creating a Forward Kinematics Solver for a robot arm. It implements the kinematic analysis of the UR10 and Franka Emika Panda robotic manipulators using the Denavit-Hartenberg (DH) convention. It calculates transformation matrices for different robot configurations and determines the position of the end effector.
 
 ## Dependencies
 * Python 3.11 (any version above 3 should work)
