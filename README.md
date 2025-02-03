@@ -17,11 +17,12 @@ The project involves creating a Forward Kinematics Solver for a robot arm. It im
 2. Install python and the required dependencies: 
 
    * From the terminal in your IDE, run the following commands:
-      'git clone https://github.com/sympy/sympy.git'
+     
+      `git clone https://github.com/sympy/sympy.git`
 
-      'git pull origin master'
+      `git pull origin master`
 
-      'python -m pip install -e'
+      `python -m pip install -e`
 	
 4. Run the code or use desired python IDE:
 
